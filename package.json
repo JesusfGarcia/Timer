@@ -16,7 +16,10 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "~7.9.0",
+    "eslint": "^7.10.0",
+    "eslint-config-handlebarlabs": "^0.0.6",
+    "prettier": "^2.1.2"
   },
   "private": true
 }
